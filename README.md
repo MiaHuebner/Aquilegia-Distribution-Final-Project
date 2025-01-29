@@ -6,4 +6,4 @@ Final Project for IP: Application Development Course at PLUS
   I was the only person running this analysis for this project. There were no other group members. 
 
 AI USE DISCLAIMER! 
-  ChatGPT was used throughout this project to help me understand different lines of code (especially in Damaris Zurrell's 2020 SDM workflow), help me find which package to use to perform a function (such as generating an interactive map with point data), and to help troubleshoot error messages that came up in my code. ChatGPT was mainly used as a means to understand what the code meant so I could understand how to best perform the analysis for the Aquilegia formosa species. 
+  ChatGPT was used throughout this project to help me understand different lines of code (especially in Damaris Zurrell's 2020 SDM workflow), help me find which package to use to perform a function (such as generating an interactive map with point data), and to help troubleshoot error messages that came up in my code. ChatGPT was mainly used as a means to understand what the code meant, so I could understand how to best perform the analysis for the Aquilegia formosa species. 
